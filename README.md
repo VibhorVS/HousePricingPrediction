@@ -9,6 +9,7 @@ Before running the code, make sure you have the following libraries installed:
 - numpy
 - matplotlib
 - scikit-learn
+- GridSearchCV
 
 ## Code Overview
 
