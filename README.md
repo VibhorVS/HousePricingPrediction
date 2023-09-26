@@ -44,3 +44,23 @@ The code in this repository is structured as follows:
 
 The code is structured to provide a comprehensive analysis of house prices in Bengaluru, from data preprocessing to model training and prediction. The accuracy of the predictions is dependent on the quality of the data and the chosen machine learning model.
 
+## Results
+
+The project's primary objective is to predict house prices in Bengaluru based on the dataset provided. While the accuracy and reliability of predictions depend on various factors, including data quality and model selection, the project's results have several real-world applications and implications.
+
+### Real Estate Investment
+   - Investors and real estate professionals can use the predictive model to make informed decisions about property investment. By inputting location, square footage, and other property details, they can obtain estimated prices, aiding them in assessing potential returns on investment.
+
+### Pricing Strategy
+   - Property sellers, such as homeowners and real estate agencies, can benefit from the model by setting competitive and realistic prices for their properties. This ensures that properties are priced correctly in the market, attracting potential buyers and expediting the sales process.
+
+### Homebuyers' Guide
+   - Prospective homebuyers can leverage the predictive model to estimate property prices and determine whether a listed property is reasonably priced. This empowers buyers to make informed decisions, negotiate effectively, and avoid overpaying for a property.
+
+### Location Insights
+   - The model's ability to predict prices based on location can provide valuable insights into property market trends. Users can explore how property prices vary across different areas of Bengaluru, helping them identify emerging hotspots or areas with potential for investment.
+
+### Data-Driven Decision Making
+   - In a data-driven world, businesses and individuals can benefit from making decisions based on data-driven insights. The project promotes the use of data analysis and machine learning to guide decisions related to property investment and pricing.
+
+In summary, this project's results have practical applications in the real estate industry and can benefit a wide range of stakeholders, including investors, sellers, buyers, and even local authorities and urban planners. By providing data-driven insights and predictions, it enhances decision-making processes and contributes to a more transparent and informed property market in Bengaluru.
